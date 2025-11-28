@@ -1,0 +1,182 @@
+{
+  "photos": [
+    {
+      "id": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "filename": "e3a97a2c-2eff-4122-9ff6-350e81b9b280.jpg",
+      "originalName": "image1.jpg",
+      "url": "/uploads/e3a97a2c-2eff-4122-9ff6-350e81b9b280.jpg",
+      "size": 530002,
+      "mimetype": "image/jpeg",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2025-11-28T13:18:12.377Z",
+      "updatedAt": "2025-11-28T13:18:15.491Z",
+      "processedUrl": "/uploads/e3a97a2c-2eff-4122-9ff6-350e81b9b280.jpg",
+      "metadata": {
+        "dimensions": "Unknown",
+        "size": "0.51 MB",
+        "format": "JPG"
+      }
+    },
+    {
+      "id": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "filename": "97c4c5ab-82d9-4ccf-967b-753ed543e39a.png",
+      "originalName": "image (3).png",
+      "url": "/uploads/97c4c5ab-82d9-4ccf-967b-753ed543e39a.png",
+      "size": 728148,
+      "mimetype": "image/png",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2025-11-28T13:18:12.381Z",
+      "updatedAt": "2025-11-28T13:18:15.501Z",
+      "processedUrl": "/uploads/97c4c5ab-82d9-4ccf-967b-753ed543e39a.png",
+      "metadata": {
+        "dimensions": "Unknown",
+        "size": "0.69 MB",
+        "format": "PNG"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "d169fb9f-f10b-44df-bd5d-efe475bb1b59",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "photo_uploaded",
+      "details": {
+        "filename": "image1.jpg",
+        "size": 530002
+      },
+      "timestamp": "2025-11-28T13:18:12.384Z"
+    },
+    {
+      "id": "fe8ee2f4-fb3f-4173-9e59-c7a7672494e7",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "photo_uploaded",
+      "details": {
+        "filename": "image (3).png",
+        "size": 728148
+      },
+      "timestamp": "2025-11-28T13:18:12.390Z"
+    },
+    {
+      "id": "e9dc3b7b-0fd9-4e1a-bdae-7d695b0cd98d",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "processing_started",
+      "details": {
+        "status": "processing",
+        "progress": 10
+      },
+      "timestamp": "2025-11-28T13:18:12.393Z"
+    },
+    {
+      "id": "43fb9486-5b33-4037-9a57-f2607b645485",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "processing_started",
+      "details": {
+        "status": "processing",
+        "progress": 10
+      },
+      "timestamp": "2025-11-28T13:18:12.397Z"
+    },
+    {
+      "id": "5021bbc9-f1f4-4478-bc64-37b1ab2f13d0",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "progress_update",
+      "details": {
+        "progress": 30,
+        "stage": "analyzing"
+      },
+      "timestamp": "2025-11-28T13:18:12.920Z"
+    },
+    {
+      "id": "92fa505d-4028-48cb-bf13-17c66e9f9f43",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "progress_update",
+      "details": {
+        "progress": 30,
+        "stage": "analyzing"
+      },
+      "timestamp": "2025-11-28T13:18:12.925Z"
+    },
+    {
+      "id": "953c3e8a-765c-4223-a792-3dbe11028c83",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "progress_update",
+      "details": {
+        "progress": 50,
+        "stage": "filtering"
+      },
+      "timestamp": "2025-11-28T13:18:13.742Z"
+    },
+    {
+      "id": "a95bccb8-8e87-4f49-8c8d-298fc2ee05d0",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "progress_update",
+      "details": {
+        "progress": 50,
+        "stage": "filtering"
+      },
+      "timestamp": "2025-11-28T13:18:13.745Z"
+    },
+    {
+      "id": "8064eeeb-164c-4895-bf07-afb867b22ea3",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "progress_update",
+      "details": {
+        "progress": 70,
+        "stage": "optimizing"
+      },
+      "timestamp": "2025-11-28T13:18:14.463Z"
+    },
+    {
+      "id": "6b2efc6f-88c3-4fdc-9717-c4cdda1de1ab",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "progress_update",
+      "details": {
+        "progress": 70,
+        "stage": "optimizing"
+      },
+      "timestamp": "2025-11-28T13:18:14.467Z"
+    },
+    {
+      "id": "e0be0fa0-53e5-45ca-9bfe-8b86a81361c7",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "progress_update",
+      "details": {
+        "progress": 90,
+        "stage": "finalizing"
+      },
+      "timestamp": "2025-11-28T13:18:15.075Z"
+    },
+    {
+      "id": "cef51dff-69aa-48ac-88ae-bd900b0579f3",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "progress_update",
+      "details": {
+        "progress": 90,
+        "stage": "finalizing"
+      },
+      "timestamp": "2025-11-28T13:18:15.091Z"
+    },
+    {
+      "id": "59ca8676-8a7d-4643-a078-1e6d348dd457",
+      "photoId": "3d84bae3-e298-4264-9a4f-616c3fb37ee7",
+      "event": "processing_completed",
+      "details": {
+        "status": "completed",
+        "progress": 100
+      },
+      "timestamp": "2025-11-28T13:18:15.495Z"
+    },
+    {
+      "id": "30bd79f8-ade7-4ce1-8eea-31e33c211bb2",
+      "photoId": "651adf57-c8f2-4196-942c-483421e4d3bc",
+      "event": "processing_completed",
+      "details": {
+        "status": "completed",
+        "progress": 100
+      },
+      "timestamp": "2025-11-28T13:18:15.507Z"
+    }
+  ]
+}
