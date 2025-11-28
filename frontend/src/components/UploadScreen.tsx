@@ -31,7 +31,7 @@ const UploadScreen = ({ onUpload, loading }: UploadScreenProps) => {
       }
 
       // Validate file size (10MB)
-      if (file.size > 50 * 1024 * 1024) {
+      if (file.size > 100 * 1024 * 1024) {
         alert(`${file.name} is too large (max 10MB)`);
         return;
       }

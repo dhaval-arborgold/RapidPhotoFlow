@@ -35,6 +35,60 @@
         "size": "0.69 MB",
         "format": "PNG"
       }
+    },
+    {
+      "id": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "filename": "936860bd-1aa6-47b7-9df0-f214bc977047.png",
+      "originalName": "image-20241205-193850.png",
+      "url": "/uploads/936860bd-1aa6-47b7-9df0-f214bc977047.png",
+      "size": 579001,
+      "mimetype": "image/png",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2025-11-28T13:27:36.830Z",
+      "updatedAt": "2025-11-28T13:27:39.932Z",
+      "processedUrl": "/uploads/936860bd-1aa6-47b7-9df0-f214bc977047.png",
+      "metadata": {
+        "dimensions": "Unknown",
+        "size": "0.55 MB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "filename": "bfdb2a16-b993-47e6-a0bb-5e394b55e698.png",
+      "originalName": "image-20241205-192931.png",
+      "url": "/uploads/bfdb2a16-b993-47e6-a0bb-5e394b55e698.png",
+      "size": 13345,
+      "mimetype": "image/png",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2025-11-28T13:27:36.836Z",
+      "updatedAt": "2025-11-28T13:27:39.970Z",
+      "processedUrl": "/uploads/bfdb2a16-b993-47e6-a0bb-5e394b55e698.png",
+      "metadata": {
+        "dimensions": "Unknown",
+        "size": "0.01 MB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "filename": "2553aa78-3ba5-4758-b3af-ed428890c565.png",
+      "originalName": "image-20241210-115726.png",
+      "url": "/uploads/2553aa78-3ba5-4758-b3af-ed428890c565.png",
+      "size": 16715,
+      "mimetype": "image/png",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2025-11-28T13:27:36.840Z",
+      "updatedAt": "2025-11-28T13:27:39.965Z",
+      "processedUrl": "/uploads/2553aa78-3ba5-4758-b3af-ed428890c565.png",
+      "metadata": {
+        "dimensions": "Unknown",
+        "size": "0.02 MB",
+        "format": "PNG"
+      }
     }
   ],
   "events": [
@@ -177,6 +231,216 @@
         "progress": 100
       },
       "timestamp": "2025-11-28T13:18:15.507Z"
+    },
+    {
+      "id": "3999bf20-ccba-4304-aa73-3c21c8fa72fa",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "photo_uploaded",
+      "details": {
+        "filename": "image-20241205-193850.png",
+        "size": 579001
+      },
+      "timestamp": "2025-11-28T13:27:36.845Z"
+    },
+    {
+      "id": "aadbee02-1f21-4106-92cd-620d45dfc117",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "photo_uploaded",
+      "details": {
+        "filename": "image-20241205-192931.png",
+        "size": 13345
+      },
+      "timestamp": "2025-11-28T13:27:36.852Z"
+    },
+    {
+      "id": "02f34421-37f7-431b-a55a-c243bd25c2b1",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "processing_started",
+      "details": {
+        "status": "processing",
+        "progress": 10
+      },
+      "timestamp": "2025-11-28T13:27:36.856Z"
+    },
+    {
+      "id": "702fee74-b1fe-49cd-8b25-a23bc6373302",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "photo_uploaded",
+      "details": {
+        "filename": "image-20241210-115726.png",
+        "size": 16715
+      },
+      "timestamp": "2025-11-28T13:27:36.861Z"
+    },
+    {
+      "id": "baef9bd0-664e-4e74-a59b-99e1bd639935",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "processing_started",
+      "details": {
+        "status": "processing",
+        "progress": 10
+      },
+      "timestamp": "2025-11-28T13:27:36.870Z"
+    },
+    {
+      "id": "02a19173-a0a5-464c-9c1a-d249c810b6f1",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "processing_started",
+      "details": {
+        "status": "processing",
+        "progress": 10
+      },
+      "timestamp": "2025-11-28T13:27:36.874Z"
+    },
+    {
+      "id": "2e0e1574-ec48-4240-ac36-ef6fd25bea0a",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "progress_update",
+      "details": {
+        "progress": 30,
+        "stage": "analyzing"
+      },
+      "timestamp": "2025-11-28T13:27:37.366Z"
+    },
+    {
+      "id": "24dd5d00-f27d-4b3c-ac32-7116547b7f42",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "progress_update",
+      "details": {
+        "progress": 30,
+        "stage": "analyzing"
+      },
+      "timestamp": "2025-11-28T13:27:37.399Z"
+    },
+    {
+      "id": "c8a03975-5863-4c63-a6c5-8a83380b7a8f",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "progress_update",
+      "details": {
+        "progress": 30,
+        "stage": "analyzing"
+      },
+      "timestamp": "2025-11-28T13:27:37.405Z"
+    },
+    {
+      "id": "2eb31bb9-e7e2-4f4f-bc44-fff9281f31b8",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "progress_update",
+      "details": {
+        "progress": 50,
+        "stage": "filtering"
+      },
+      "timestamp": "2025-11-28T13:27:38.186Z"
+    },
+    {
+      "id": "56bfe5a4-29e2-4d59-a1d7-1da30c833541",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "progress_update",
+      "details": {
+        "progress": 50,
+        "stage": "filtering"
+      },
+      "timestamp": "2025-11-28T13:27:38.222Z"
+    },
+    {
+      "id": "f8920f94-cde4-434f-8041-4e510ed4cd62",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "progress_update",
+      "details": {
+        "progress": 50,
+        "stage": "filtering"
+      },
+      "timestamp": "2025-11-28T13:27:38.226Z"
+    },
+    {
+      "id": "a912fd1f-c1d3-46c3-a520-811f4db066a1",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "progress_update",
+      "details": {
+        "progress": 70,
+        "stage": "optimizing"
+      },
+      "timestamp": "2025-11-28T13:27:38.902Z"
+    },
+    {
+      "id": "fa08d740-72b9-49cc-aed0-c962972d9d8a",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "progress_update",
+      "details": {
+        "progress": 70,
+        "stage": "optimizing"
+      },
+      "timestamp": "2025-11-28T13:27:38.935Z"
+    },
+    {
+      "id": "5dc7d853-a87c-464c-99f9-ae50804017c3",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "progress_update",
+      "details": {
+        "progress": 70,
+        "stage": "optimizing"
+      },
+      "timestamp": "2025-11-28T13:27:38.942Z"
+    },
+    {
+      "id": "40530845-4340-417a-a89c-7dd6d2ebac81",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "progress_update",
+      "details": {
+        "progress": 90,
+        "stage": "finalizing"
+      },
+      "timestamp": "2025-11-28T13:27:39.515Z"
+    },
+    {
+      "id": "cf6cc1fa-3e65-4816-ab57-a7c976668bec",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "progress_update",
+      "details": {
+        "progress": 90,
+        "stage": "finalizing"
+      },
+      "timestamp": "2025-11-28T13:27:39.542Z"
+    },
+    {
+      "id": "8714f76b-315e-4ab1-bd99-1ba1d8c9178d",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "progress_update",
+      "details": {
+        "progress": 90,
+        "stage": "finalizing"
+      },
+      "timestamp": "2025-11-28T13:27:39.557Z"
+    },
+    {
+      "id": "92d1d298-b3c5-432c-9ce2-e9f73d39d3fa",
+      "photoId": "0b557ac4-a878-4382-acc6-322dbe154f61",
+      "event": "processing_completed",
+      "details": {
+        "status": "completed",
+        "progress": 100
+      },
+      "timestamp": "2025-11-28T13:27:39.936Z"
+    },
+    {
+      "id": "13a091e0-63ce-44d0-97fa-ddcc26d6c4c5",
+      "photoId": "3d8a6f97-119d-458d-8892-869cd05eb3b9",
+      "event": "processing_completed",
+      "details": {
+        "status": "completed",
+        "progress": 100
+      },
+      "timestamp": "2025-11-28T13:27:39.973Z"
+    },
+    {
+      "id": "679685aa-7ec3-4738-a43f-05a0a951c3f7",
+      "photoId": "9a3abee3-4629-4b43-993d-fafd7713a3b4",
+      "event": "processing_completed",
+      "details": {
+        "status": "completed",
+        "progress": 100
+      },
+      "timestamp": "2025-11-28T13:27:39.979Z"
     }
   ]
 }
